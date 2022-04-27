@@ -1,2 +1,2 @@
 # animated-octo-guacamole
-My Blog
+Python code to generate static site
