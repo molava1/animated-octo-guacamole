@@ -1,2 +1,2 @@
 # animated-octo-guacamole
-My Blog
+Bash code to generate static site 
